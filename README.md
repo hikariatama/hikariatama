@@ -24,25 +24,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innocoffee-ftg)](https://github.com/anuraghazra/github-readme-stats)
+![separator](https://user-images.githubusercontent.com/36935426/148455126-17a57128-b844-4ee5-9c6b-cbe3dd0cfcec.png)
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=innocoffee-ftg&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-📊 **This Week I Spent My Time On** 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=innocoffee-ftg&count_private=true&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
+[![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=innocoffee&show_icons=true&theme=dracula&border_radius=10&hide_border=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔥 Editors: 
-No Activity Tracked This Week
+![separator](https://user-images.githubusercontent.com/36935426/148455126-17a57128-b844-4ee5-9c6b-cbe3dd0cfcec.png)
 
-🐱‍💻 Projects: 
-No Activity Tracked This Week
+💼 I'm contributing to:
 
-```
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Telethon&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Friendly-Telegram&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![separator](https://user-images.githubusercontent.com/36935426/148455126-17a57128-b844-4ee5-9c6b-cbe3dd0cfcec.png)
 
- Last Updated on 06/01/2022
-<!--END_SECTION:waka-->
+🧙‍♂️ My projects:
+
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=innocoffee-ftg&repo=ftg&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=innocoffee-ftg&repo=host&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
