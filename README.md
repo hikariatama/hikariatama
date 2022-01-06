@@ -27,50 +27,9 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=innocoffee-ftg)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 5 Contributions in the Year 2022
- > 
-> 📦 1.1 kB Used in GitHub's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 8 Public Repositories 
- > 
-> 🔑 3 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    54 commits     ████████████░░░░░░░░░░░░░   48.21% 
-🌆 Daytime    32 commits     ███████░░░░░░░░░░░░░░░░░░   28.57% 
-🌃 Evening    21 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.75% 
-🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
-
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday       4 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57% 
-Tuesday      15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Wednesday    46 commits     ██████████░░░░░░░░░░░░░░░   41.07% 
-Thursday     14 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-Friday       15 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.39% 
-Saturday     12 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.71% 
-Sunday       6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.36%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Moscow
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -80,22 +39,7 @@ No Activity Tracked This Week
 🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System: 
-No Activity Tracked This Week
-
 ```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   6 repos             █████████████████████████   100.0%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/innocoffee-ftg/innocoffee-ftg/master/charts/bar_graph.png) 
 
 
  Last Updated on 06/01/2022
