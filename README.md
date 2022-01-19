@@ -27,14 +27,14 @@
 
 ### 💼 I'm contributing to:
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Telethon&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Friendly-Telegram&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Telethon&theme=dracula&border_radius=10&hide_border=true)](https://github.com/GeekTG/Telethon)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=GeekTG&repo=Friendly-Telegram&theme=dracula&border_radius=10&hide_border=true)](https://github.com/GeekTG/Friendly-Telegram)
 
 ![separator](https://user-images.githubusercontent.com/36935426/148455126-17a57128-b844-4ee5-9c6b-cbe3dd0cfcec.png)
 
 ### 🧙‍♂️ My projects:
 
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=hikariatama&repo=ftg&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Card](https://github-readme-stats.vercel.app/api/pin/?username=hikariatama&repo=host&theme=dracula&border_radius=10&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=hikariatama&repo=ftg&theme=dracula&border_radius=10&hide_border=true)](https://github.com/hikariatama/ftg)
+[![Card](https://github-readme-stats.vercel.app/api/pin/?username=hikariatama&repo=host&theme=dracula&border_radius=10&hide_border=true)](https://github.com/hikariatama/host)
 
 ![separator](https://user-images.githubusercontent.com/36935426/148455126-17a57128-b844-4ee5-9c6b-cbe3dd0cfcec.png)
