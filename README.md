@@ -7,7 +7,7 @@
 ### 💳 Best way to say 'thank you'
 
 [![Yoomoney](https://img.icons8.com/7C4DFF/ios-filled/40/yandex-money)](https://yoomoney.ru/to/4100116399134842)
-[![Tinkoff(https://user-images.githubusercontent.com/36935426/159210190-d2981840-a304-4093-b665-2d3a38438b72.svg)](https://www.tinkoff.ru/rm/gazizullin.daniil2/A54ce52313)
+[![Tinkoff](https://user-images.githubusercontent.com/36935426/159210190-d2981840-a304-4093-b665-2d3a38438b72.svg)](https://www.tinkoff.ru/rm/gazizullin.daniil2/A54ce52313)
 
 ![separator](https://user-images.githubusercontent.com/36935426/148455126-17a57128-b844-4ee5-9c6b-cbe3dd0cfcec.png)
 
